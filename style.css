@@ -7,19 +7,22 @@
 
   }
 
-}
+
 
 html, body {
   margin: 0px;
   height: 100%;
   padding-top: 0px;
   padding-bottom: 0px;
-}
-body { 
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
   overflow-x: hidden; and overflow-x: auto;
 }
+/* body { 
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  overflow-x: hidden; and overflow-x: auto;
+} */
 
 .header {
   overflow: hidden;
@@ -92,67 +95,13 @@ body {
   height: 380px;
   width: 100%; */
 }
-.col-trans-p .text-head{
-padding-top: 50px;
-padding-left: 480px;
-}
-.iclass{
-  padding-left: 500px;
-}
-.flex-container2 {
-  display: flex;
-   height: 520px;
-  width: 100%;
-}
 
 
-.flex1{
-  width: 400px;
-  
-  transition: width 2s;
-  margin: 10px;
-  padding: 20px;
-  font-size: 30px;
-}
-.flex3{
-  width: 800px;
-  
-  margin: 10px;
-  padding: 10px;
-  font-size: 16px;
-    
-}
-.flex2{
-  width: 300px;
-
-  
-  margin: 10px;
-  padding: 20px;
-  font-size: 30px;
- 
-}
-.flex1:hover {
-  width: 450px;
-}
 h1.text-head{
  
   font-color:red;
 }
-.flex2-1{
- width: 500px;
 
-  
-  margin: 10px;
-  padding: 10px;
-  font-size: 30px;
-}
-.flex2-3{
-   width: 800px;
-  
-  margin: 5px;
-  padding: 10px;
-  font-size: 16px;
-}
 .img-responsive-2{
   padding-left: 40px;
 
